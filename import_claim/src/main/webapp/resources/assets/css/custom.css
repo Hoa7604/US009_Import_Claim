@@ -1,0 +1,19 @@
+
+header{border-bottom: 1px solid #ddd;}
+.courses-area .container .align-items-center{display: -webkit-box;}
+
+
+.courses-area .container .row h2{
+    text-align: center;
+}
+.courses-area .container .row form button{
+    width: 100%;
+}
+
+.courses-area .container .row form .form-group label{font-weight: bold;}
+.courses-area .container .row .display-cnt{
+    vertical-align: top;
+    position: relative;
+}
+
+.courses-area .container .row .col-xl-10 form { position:absolute; right: 13px; bottom: -20px;}

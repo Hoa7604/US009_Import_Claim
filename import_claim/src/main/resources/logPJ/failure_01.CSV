@@ -1,0 +1,24 @@
+ClaimNo: 7.0, PolicyNo: , DateOccurred: 12-May-2021, Date cannot be in the future,  2021-03-16  
+ClaimNo: 7.0, PolicyNo: , DateOccurred: 12-May-2021, Date cannot be in the future,  2021-03-16  
+ClaimNo: 15.0, PolicyNo: , DateOccurred: 15-May-2021, Date cannot be in the future,  2021-03-16  
+%n ClaimNo: null, PolicyNo: null, DateOccurred: , DateOccurred not NULL or isEmpty 2021-03-16  
+ClaimNo: 15.0, PolicyNo: , DateOccurred: 15-May-2021, Date cannot be in the future,  2021-03-16  
+%n ClaimNo: null, PolicyNo: null, DateOccurred: , DateOccurred not NULL or isEmpty 2021-03-16  
+ClaimNo: 2.0, PolicyNo: , DateOccurred: 16-Mar-2021, Reverse Amount must be lower than Sum Insured or Reverse Amount greater 0 ,  2021-03-16  
+ClaimNo: 15.0, PolicyNo: , DateOccurred: 15-May-2021, Date cannot be in the future,  2021-03-16  
+%n ClaimNo: null, PolicyNo: null, DateOccurred: , DateOccurred not NULL or isEmpty 2021-03-16  
+ClaimNo: 2.0, PolicyNo: , DateOccurred: 16-Mar-2021, Reverse Amount must be lower than Sum Insured or Reverse Amount greater 0 ,  2021-03-16  
+ClaimNo: 15.0, PolicyNo: , DateOccurred: 15-May-2021, Date cannot be in the future,  2021-03-16  
+%n ClaimNo: null, PolicyNo: null, DateOccurred: , DateOccurred not NULL or isEmpty 2021-03-16  
+ClaimNo: 2.0, PolicyNo: , DateOccurred: 16-Mar-2021, Reverse Amount must be lower than Sum Insured or Reverse Amount greater 0 ,  2021-03-16  
+ClaimNo: 15.0, PolicyNo: , DateOccurred: 15-May-2021, Date cannot be in the future,  2021-03-16  
+ClaimNo: 2.0, PolicyNo: , DateOccurred: 16-Mar-2021, Reverse Amount must be lower than Sum Insured or Reverse Amount greater 0 ,  2021-03-16  
+ClaimNo: 2.0, PolicyNo: , DateOccurred: 16-Mar-2021, Reverse Amount must be lower than Sum Insured or Reverse Amount greater 0 ,  2021-03-16  
+%n ClaimNo: null, PolicyNo: null, DateOccurred: , DateOccurred not NULL or isEmpty 2021-03-16  
+ClaimNo: 2.0, PolicyNo: , DateOccurred: 16-Mar-2021, Reverse Amount must be lower than Sum Insured or Reverse Amount greater 0 ,  2021-03-16  
+%n ClaimNo: null, PolicyNo: null, DateOccurred: , DateOccurred not NULL or isEmpty 2021-03-16  
+ClaimNo: 2.0, PolicyNo: , DateOccurred: 16-Mar-2021, Reverse Amount must be lower than Sum Insured or Reverse Amount greater 0 ,  2021-03-16  
+ClaimNo: 2.0, PolicyNo: , DateOccurred: 16-Mar-2021, Reverse Amount greater 0 ,  2021-03-16  
+%n ClaimNo: null, PolicyNo: null, DateOccurred: , DateOccurred not NULL or isEmpty 2021-03-16  
+ClaimNo: 2.0, PolicyNo: , DateOccurred: 16-Mar-2021, Reverse Amount greater 0 ,  2021-03-16  
+%n ClaimNo: null, PolicyNo: null, DateOccurred: , DateOccurred not NULL or isEmpty 2021-03-16  
